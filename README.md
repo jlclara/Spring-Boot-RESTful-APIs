@@ -1,5 +1,6 @@
 # Spring-Boot-RESTful-APIs
-Basic coding challenge for a job interview
+Basic coding challenge for a job interview. 
+Main features: Java, Spring Boot, RESTful API, testing
 
 
 # API Challenge
